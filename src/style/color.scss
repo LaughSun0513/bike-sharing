@@ -1,0 +1,58 @@
+// 五道口配色
+//配色
+// 品牌主色
+$primary-normal-color: #2192D9; // B1-6
+$primary-dark-color: #30A9EF; // B1-9
+$primary-light-color: #E8F6FF; // B1-1
+// 品牌副色
+$vice-1: #2192D9; // B2-6
+$vice-2: #A6D3F0; // B2-3
+$vice-3: #D3E9F7; // B2-2
+$vice-4: #E8F6FF; // B2-1
+$vice-5: #377CE0; // B7-6
+$vice-6: #1B4E98; // B7-9
+// 中立色
+// line
+$neut-light-line-color: #E6E7EB; // N1-5
+$neut-normal-line-color: #DCDEE3; // N1-6
+$neut-dark-line-color: #C4C6CF; // N1-7
+$neut-heavy-line-color: #A0A2AD; // N1-8
+// fill
+$neut-light-fill-color: #F7F8FA; // N1-2
+$neut-normal-fill-color: #F2F3F7; // N1-3
+$neut-dark-fill-color: #EBECF0; // N1-4
+$neut-heavy-fill-color: #DEEDED; // N1-10
+// font
+$neut-lightest-font-color: #CCC; // N2-1
+$neut-lighter-font-color: #999; // N2-2
+$neut-light-font-color: #666; // N2-3
+$neut-normal-font-color: #333; // N2-4
+$neut-dark-font-color: #222; // N2-5
+// other
+$neut-light-other-color: #FFF; // N1-1
+$neut-dark-other-color: #000; // N1-9
+// 功能
+// warn
+$func-normal-warn-color: #FFA033; // F1-1
+$func-light-warn-color: #FFF1E8; // F1-2
+$func-dark-warn-color: #EB7E10; // F1-3
+// error
+$func-normal-error-color: #FF3333; // F2-1
+$func-light-error-color: #FAE7E7; // F2-2
+$func-dark-error-color: #E61C1C; // F2-3
+$error-shadow-color: rgba(255, 51, 51, 0.6); // success
+$func-normal-success-color: #1DC11D; // F3-1
+$func-light-success-color: #E8F9E8; // F3-2
+$func-dark-success-color: #0DA80D; // F3-3
+// link
+$func-normal-link-color: #2192D9; // F4-1
+$func-light-link-color: #0B70AF; // F4-2
+$func-dark-link-color: #0099FF; // F4-3
+// hint
+$func-normal-hint-color: #0089FD; // F5-1
+$func-light-hint-color: #DAEEFF; // F5-2
+$func-dark-hint-color: #306AC9; // F5-3
+// other
+$func-normal-other-color: #4ABCFC; // F6-1
+$func-light-other-color: #284A7C; // F6-2
+$func-dark-other-color: #202E45; // F6-3
