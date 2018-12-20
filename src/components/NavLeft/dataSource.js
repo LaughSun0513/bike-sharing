@@ -6,31 +6,31 @@ export const menuList = [{
         key: '/admin/menu2',
         title: '菜单2',
         children: [{
-                key: '/admin/subMenu1',
+                key: '/admin/menu2/subMenu1',
                 title: '子菜单1'
             },
             {
-                key: '/admin/subMenu2',
+                key: '/admin/menu2/subMenu2',
                 title: '子菜单2'
             },
             {
-                key: '/admin/subMenu3',
+                key: '/admin/menu2/subMenu3',
                 title: '子菜单3'
             },
             {
-                key: '/admin/subMenu4',
+                key: '/admin/menu2/subMenu4',
                 title: '子菜单4'
             },
             {
-                key: '/admin/subMenu5',
+                key: '/admin/menu2/subMenu5',
                 title: '子菜单5'
             },
             {
-                key: '/admin/subMenu6',
+                key: '/admin/menu2/subMenu6',
                 title: '子菜单6'
             },
             {
-                key: '/admin/subMenu7',
+                key: '/admin/menu2/subMenu7',
                 title: '子菜单7'
             }
         ]
@@ -39,31 +39,31 @@ export const menuList = [{
         key: '/admin/menu3',
         title: '菜单3',
         children: [{
-                key: '/admin/subMenu1',
+                key: '/admin/menu3/subMenu1',
                 title: '子菜单1'
             },
             {
-                key: '/admin/subMenu2',
+                key: '/admin/menu3/subMenu2',
                 title: '子菜单2'
             },
             {
-                key: '/admin/subMenu3',
+                key: '/admin/menu3/subMenu3',
                 title: '子菜单3'
             },
             {
-                key: '/admin/subMenu4',
+                key: '/admin/menu3/subMenu4',
                 title: '子菜单4'
             },
             {
-                key: '/admin/subMenu5',
+                key: '/admin/menu3/subMenu5',
                 title: '子菜单5'
             },
             {
-                key: '/admin/subMenu6',
+                key: '/admin/menu3/subMenu6',
                 title: '子菜单6'
             },
             {
-                key: '/admin/subMenu7',
+                key: '/admin/menu3/subMenu7',
                 title: '子菜单7'
             },
         ]

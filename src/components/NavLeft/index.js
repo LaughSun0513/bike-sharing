@@ -1,4 +1,5 @@
 import React,{Component} from 'react';
+import { NavLink } from 'react-router-dom';
 import { Layout,Menu} from 'antd';
 import {menuList} from './dataSource';
 import './index.scss';
@@ -23,7 +24,9 @@ export default class NavLeft extends Component {
           )
         }else{
           return (
-            <Menu.Item key={item.key}>{item.title}</Menu.Item>
+            <Menu.Item key={item.key}>
+              <NavLink to={item.key}>{item.title}</NavLink>
+            </Menu.Item>
           )
         }
       })
