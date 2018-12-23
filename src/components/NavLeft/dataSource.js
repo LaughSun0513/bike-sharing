@@ -1,43 +1,43 @@
 export const menuList = [{
-        key: '/admin/menu1',
-        title: '菜单1'
+        key: '/admin/home',
+        title: '首页'
     },
     {
-        key: '/admin/menu2',
-        title: '菜单2',
+        key: '/admin/ui',
+        title: 'UI',
         children: [{
-                key: '/admin/menu2/subMenu1',
-                title: '子菜单1'
+                key: '/admin/ui/button',
+                title: '按钮'
             },
             {
-                key: '/admin/menu2/subMenu2',
+                key: '/admin/ui/subMenu2',
                 title: '子菜单2'
             },
             {
-                key: '/admin/menu2/subMenu3',
+                key: '/admin/ui/subMenu3',
                 title: '子菜单3'
             },
             {
-                key: '/admin/menu2/subMenu4',
+                key: '/admin/ui/subMenu4',
                 title: '子菜单4'
             },
             {
-                key: '/admin/menu2/subMenu5',
+                key: '/admin/ui/subMenu5',
                 title: '子菜单5'
             },
             {
-                key: '/admin/menu2/subMenu6',
+                key: '/admin/ui/subMenu6',
                 title: '子菜单6'
             },
             {
-                key: '/admin/menu2/subMenu7',
+                key: '/admin/ui/subMenu7',
                 title: '子菜单7'
             }
         ]
     },
     {
         key: '/admin/menu3',
-        title: '菜单3',
+        title: '表单',
         children: [{
                 key: '/admin/menu3/subMenu1',
                 title: '子菜单1'
@@ -70,26 +70,35 @@ export const menuList = [{
     },
     {
         key: '/admin/menu4',
-        title: '菜单4'
+        title: '表格'
     },
     {
         key: '/admin/menu5',
-        title: '菜单5'
+        title: '富文本'
     },
     {
         key: '/admin/menu6',
-        title: '菜单6'
+        title: '城市管理'
     },
     {
         key: '/admin/menu7',
-        title: '菜单7'
+        title: '订单管理'
     },
     {
         key: '/admin/menu8',
-        title: '菜单8'
+        title: '员工管理'
     },
     {
         key: '/admin/menu9',
-        title: '菜单9'
+        title: '车辆地图'
+    },
+    {
+        key: '/admin/menu10',
+        title: '图标'
+    },
+    {
+        key: '/admin/menu11',
+        title: '权限设置'
     }
+
 ]

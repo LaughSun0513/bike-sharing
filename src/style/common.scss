@@ -1,11 +1,14 @@
-.container{
+.app-left{
    font-size: 18px;
    height:100%;
 }
+.app-right{
+  min-width: 570px;
+}
 .content{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding:20px;
-  height:100%;
+  padding: 20px;
+  height: 100%;
+  min-height: 219px;
+  overflow-y: auto;
+  margin-top: 15px;
 }
