@@ -9,7 +9,7 @@ import Admin from './admin';
 export const IRouter = () => {
     return (
       <Router>
-          <Route path="/admin" render={()=>
+          <Route path="/" render={()=>
               <Admin>
                   <Switch>
                     <Route path='/admin/home' component={Home}/>
