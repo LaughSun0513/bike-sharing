@@ -10,8 +10,8 @@ export const menuList = [{
                 title: '按钮'
             },
             {
-                key: '/admin/ui/subMenu2',
-                title: '子菜单2'
+                key: '/admin/ui/modal',
+                title: '弹框'
             },
             {
                 key: '/admin/ui/subMenu3',

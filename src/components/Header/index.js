@@ -22,7 +22,7 @@ export default class MyHeader extends Component{
 
           <Row className='header-top'>
               <span>LaughSun</span>
-              <a href="#">退出</a>
+              <a href="javascript:;">退出</a>
           </Row>
 
           <Row className='header-bottom'>

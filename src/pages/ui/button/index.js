@@ -49,10 +49,10 @@ export default class UIButton extends Component{
                     <Radio value="small">小</Radio>
                     <Radio value="default">中</Radio>
                     <Radio value="large">大</Radio>
-                    <Button type="primary" size={this.state.size}>Imooc</Button>
-                    <Button size={this.state.size}>Imooc</Button>
-                    <Button type="dashed" size={this.state.size}>Imooc</Button>
-                    <Button type="danger" size={this.state.size}>Imooc</Button>
+                    <Button type="primary" size={this.state.size}>My React Projects</Button>
+                    <Button size={this.state.size}>My React Projects</Button>
+                    <Button type="dashed" size={this.state.size}>My React Projects</Button>
+                    <Button type="danger" size={this.state.size}>My React Projects</Button>
                 </Radio.Group>
             </Card>
         </div>
