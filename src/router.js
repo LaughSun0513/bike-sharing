@@ -2,8 +2,8 @@ import React from 'react';
 import { HashRouter as Router,Route,Switch } from 'react-router-dom';
 import Home from './pages/home';
 import NoMatch from './pages/nomatch';
-import UIButton from './pages/ui/button';
-import UIModal from './pages/ui/modal';
+import UIButton from './pages/ui/buttons.js';
+import UIModal from './pages/ui/modals.js';
 
 import Admin from './admin';
 
