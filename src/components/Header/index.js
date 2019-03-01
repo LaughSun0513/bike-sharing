@@ -5,7 +5,6 @@ import './index.scss';
 
 const { Header } = Layout;
 
-
 export default class MyHeader extends Component{
     state={}
     componentWillMount(){
@@ -22,7 +21,7 @@ export default class MyHeader extends Component{
 
           <Row className='header-top'>
               <span>LaughSun</span>
-              <a href="javascript:;">退出</a>
+              <a>退出</a>
           </Row>
 
           <Row className='header-bottom'>

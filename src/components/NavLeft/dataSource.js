@@ -14,20 +14,20 @@ export const menuList = [{
                 title: '弹框'
             },
             {
-                key: '/admin/ui/subMenu3',
-                title: '子菜单3'
+                key: '/admin/ui/loading',
+                title: 'Loading'
             },
             {
-                key: '/admin/ui/subMenu4',
-                title: '子菜单4'
+                key: '/admin/ui/notification',
+                title: '侧边提醒框'
             },
             {
-                key: '/admin/ui/subMenu5',
-                title: '子菜单5'
+                key: '/admin/ui/toast',
+                title: 'Toast'
             },
             {
-                key: '/admin/ui/subMenu6',
-                title: '子菜单6'
+                key: '/admin/ui/tab',
+                title: '选项卡Tab'
             },
             {
                 key: '/admin/ui/subMenu7',
